@@ -33,7 +33,11 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button3 = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.textBox3 = new System.Windows.Forms.TextBox();
+=======
+            this.button4 = new System.Windows.Forms.Button();
+>>>>>>> 0dc1c34d5c9897a6793aa9b553a2a3007abcc72c
             this.SuspendLayout();
             // 
             // button1
@@ -76,6 +80,7 @@
             this.button3.TabIndex = 3;
             this.button3.Text = "button3";
             this.button3.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             // 
             // textBox3
             // 
@@ -83,14 +88,30 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(330, 22);
             this.textBox3.TabIndex = 2;
+=======
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(179, 347);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(499, 61);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "button4";
+            this.button4.UseVisualStyleBackColor = true;
+>>>>>>> 0dc1c34d5c9897a6793aa9b553a2a3007abcc72c
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+<<<<<<< HEAD
             this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox3);
+=======
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+>>>>>>> 0dc1c34d5c9897a6793aa9b553a2a3007abcc72c
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button2);
@@ -111,7 +132,11 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button3;
+<<<<<<< HEAD
         private System.Windows.Forms.TextBox textBox3;
+=======
+        private System.Windows.Forms.Button button4;
+>>>>>>> 0dc1c34d5c9897a6793aa9b553a2a3007abcc72c
 =======
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
