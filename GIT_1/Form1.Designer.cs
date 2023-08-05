@@ -67,14 +67,10 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-=======
+
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
->>>>>>> 6fdc31009ee75005c5a837a4a3e71fa926d79850
-=======
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
->>>>>>> 6fdc31009ee75005c5a837a4a3e71fa926d79850
+
     }
 }
 
