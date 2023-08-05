@@ -17,6 +17,6 @@ namespace GIT_1
             InitializeComponent();
         }
 
-        // This is wrote from the Github repository (Browser
+        // This is wrote from the Github repository (Browser)
     }
 }
