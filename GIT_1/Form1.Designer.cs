@@ -35,25 +35,25 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(234, 48);
+            this.button1.Location = new System.Drawing.Point(177, 271);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(265, 78);
+            this.button1.Size = new System.Drawing.Size(156, 61);
             this.button1.TabIndex = 0;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(234, 144);
+            this.button2.Location = new System.Drawing.Point(353, 271);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(265, 78);
+            this.button2.Size = new System.Drawing.Size(154, 61);
             this.button2.TabIndex = 1;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(234, 239);
+            this.button3.Location = new System.Drawing.Point(242, 174);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(265, 78);
             this.button3.TabIndex = 2;
@@ -78,7 +78,12 @@
 
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+<<<<<<< HEAD
         private System.Windows.Forms.Button button3;
+=======
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
+>>>>>>> 6fdc31009ee75005c5a837a4a3e71fa926d79850
     }
 }
 
